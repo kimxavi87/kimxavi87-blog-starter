@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "kimxavi87-blog-starter",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "kimxavi87 blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "kimxavi87 <kimxavi87@naver.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -34,7 +34,6 @@
   "devDependencies": {
     "prettier": "2.4.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
   ],
